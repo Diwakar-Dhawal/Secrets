@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812148103676",
+    "project_id": "secrets-4e633",
+    "storage_bucket": "secrets-4e633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812148103676:android:4b79645a238c243ebafa79",
+        "android_client_info": {
+          "package_name": "com.example.secrets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812148103676-7kpt1a15spq2s8ct4gd6m1lf55pbls1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEqaHpLDmgIxmQFjxXP-ABBHrB8dGris"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812148103676-7kpt1a15spq2s8ct4gd6m1lf55pbls1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
